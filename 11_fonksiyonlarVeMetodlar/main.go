@@ -14,6 +14,7 @@ func main() {
 	// reader := bufio.NewReader(os.Stdin)
 	// value, _ := reader.ReadString('\n')
 	// fmt.Println(value)
+	
 	bolum, kalan := bolme(45, 4)
 	fmt.Printf("Bolum %d kalan %d", bolum, kalan)
 }
