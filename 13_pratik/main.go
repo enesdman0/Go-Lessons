@@ -73,7 +73,7 @@ func main() {
 // }
 
 // 3
-func sayiTahmin(min, max int) int {
+// func sayiTahmin(min, max int) int {
 	// rand.Seed(time.Now().Unix())
 	// return rand.Intn(max-min) + min
-}
+// }
