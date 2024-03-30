@@ -25,7 +25,7 @@ func main() {
 	// fmt.Printf("%T %v\n", m1+mile(m2), m1+mile(m2))
 	// myString := "Enes"
 	// fmt.Println(strings.ToUpper(myString))
-
+	
 	
 	m1 := mile(10)
 	k1 := kilometer(16)
